@@ -1,0 +1,30 @@
+{
+  "name": "codedraft-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "@tailwindcss/vite": "^4.3.0",
+    "axios": "^1.16.1",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.35.0",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^6.30.3",
+    "recharts": "^3.8.1",
+    "socket.io-client": "^4.8.3",
+    "tailwindcss": "^4.3.0"
+  }
+}
